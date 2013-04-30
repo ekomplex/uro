@@ -5,3 +5,7 @@ function()
 {
 	print "neco"
 }
+
+function dva {
+	print "tri"
+}
