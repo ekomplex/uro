@@ -3,5 +3,5 @@ jineho
 
 function()
 {
-	print "neco"
+	print "dva"
 }
